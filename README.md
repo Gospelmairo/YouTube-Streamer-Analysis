@@ -23,6 +23,6 @@ Pandas
 Matplotlib
 Numpy
 
-Expected Outcome:
+### Expected Outcome:
 
 This analysis will provide valuable insights into YouTube streaming trends, audience demographics, and high-performing content categories.
